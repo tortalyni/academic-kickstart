@@ -11,7 +11,7 @@ role: Master's Student / Graduate Research Assistant
 # Organizations/Affiliations
 organizations:
 - name: University of Victoria
-  url: ""
+  url: "https://www.uvic.ca/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include democratization of digital media and digital technologies, knowledge commons, internet decentralization, digital platform and AI capitalism, and techno-social relationships.
@@ -19,7 +19,7 @@ bio: My research interests include democratization of digital media and digital 
 interests:
 - Science, Technology and Society
 - Social Thoery
-- Open social scholarship
+- Open, Social Scholarship
 
 education:
   courses:
@@ -69,4 +69,4 @@ highlight_name: false
 # - Visitors
 ---
 
-Talya is a research assistant at the Electronic Textual Cultures Lab located at the University of Victoria Library. She contributes to the lab’s communication activities across various online platforms and assists with collaborative research projects and planning conferences and events. Talya is an MA student in Sociology concentrating in Cultural, Social, and Political Thought (CSPT) at the University of Victoria. She holds a BA Honours in Sociology with a minor in Technology and Society from the University of Victoria. Her research interests are the democratization of digital media and digital technologies, knowledge commons, internet decentralization, digital platform and AI capitalism, and techno-social relationships.
+Talya is a research assistant at the Electronic Textual Cultures Lab located at the University of Victoria Library. She contributes to the lab’s communication activities across various online platforms and assists with collaborative research projects and planning conferences and events. Talya is an MA student in Sociology concentrating in Cultural, Social, and Political Thought (CSPT) at the University of Victoria. She holds a BA Honours in Sociology with a minor in Technology and Society from the University of Victoria. Her research interests are the democratization of digital media and digital technologies, knowledge commons, internet decentralization, digital platforms, surveillance capitalism, and techno-social relationships.
