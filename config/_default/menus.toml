@@ -4,19 +4,14 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
-  url = "home"
-  weight = 10
-
-[[main]]
   name = "Podcasts"
   url = "/podcasting"
-  weight = 20
+  weight = 10
 
 [[main]]
   name = "Publications"
   url = "/writing"
-  weight = 30
+  weight = 20
   
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
