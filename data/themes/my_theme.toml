@@ -5,13 +5,13 @@ name = "My Theme"
 light = true
 
 # Primary
-primary = "#EF233C"
+primary = "#CC3F0C"
 background = "#F3F3F7"
 
 # Menu
-menu_primary = "#EF233C"
+menu_primary = "#CC3F0C"
 menu_text = "#F3F3F7"
-menu_text_active = "#F3F3F7"
+menu_text_active = "#DD614A"
 menu_title = "#F3F3F7"
 
 # Home sections
@@ -19,5 +19,5 @@ home_section_odd = "rgb(255, 255, 255)"
 home_section_even = "rgb(247, 247, 247)"
 
 [dark]
-  link = "#F3F3F7"
-  link_hover = "#E5EAFA"
+  link = "#CC3F0C"
+  link_hover = "#DD614A"
