@@ -11,7 +11,7 @@ background = "#F3F3F7"
 # Menu
 menu_primary = "#EF233C"
 menu_text = "#F3F3F7"
-menu_text_active = "#E5EAFA"
+menu_text_active = "#F3F3F7"
 menu_title = "#F3F3F7"
 
 # Home sections
