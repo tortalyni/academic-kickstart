@@ -14,4 +14,4 @@ header:
   image: ""
 ---
 
-Add your *content* here...
+Coming soon.
