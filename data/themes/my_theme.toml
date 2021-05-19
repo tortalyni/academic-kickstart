@@ -5,13 +5,13 @@ name = "My Theme"
 light = true
 
 # Primary
-primary = "#CC3F0C"
+primary = "#D64045"
 background = "#F3F3F7"
 
 # Menu
-menu_primary = "#2E1F27"
+menu_primary = "#D64045"
 menu_text = "#F3F3F7"
-menu_text_active = "#E8C547"
+menu_text_active = "#FFADC7"
 menu_title = "#F3F3F7"
 
 # Home sections
