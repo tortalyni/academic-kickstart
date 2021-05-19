@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include democratization of digital media and digital technologies, knowledge commons, internet decentralization, digital platform and AI capitalism, and techno-social relationships
+bio: My research interests include democratization of digital media and digital technologies, knowledge commons, internet decentralization, digital platform and AI capitalism, and techno-social relationships.
 
 interests:
 - Science, Technology and Society
