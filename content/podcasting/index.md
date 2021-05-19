@@ -1,5 +1,5 @@
 ---
-title: Podcasting
+title: Podcasts
 summary: These are the podcasting projects I've worked on.
 # date: "2018-06-28T00:00:00Z"
 
