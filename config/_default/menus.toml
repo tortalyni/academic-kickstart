@@ -10,12 +10,12 @@
 
 [[main]]
   name = "Podcasts"
-  url = "https://talya.is/podcasting"
+  url = "/podcasting"
   weight = 20
 
 [[main]]
   name = "Publications"
-  url = "https://talya.is/writing"
+  url = "/writing"
   weight = 30
   
 # Link to a PDF of your resume/CV from the menu.
