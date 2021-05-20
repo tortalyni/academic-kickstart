@@ -18,7 +18,8 @@ bio: My research interests include democratization of digital media and digital 
 
 interests:
 - Science, Technology, and Society
-- Social Thoery
+- Cultural, Social, and Political Thought
+- Sociology
 - Open, Social Scholarship
 
 education:
