@@ -2,7 +2,7 @@
 name = "Palanquin"
 
 # Optional Google font URL
-google_fonts = "family=Palanquin:wght@100&display=swap"
+google_fonts = "family=Palanquin:wght@100"
 
 # Font families
 heading_font = "Palanquin"
