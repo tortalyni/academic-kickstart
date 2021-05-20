@@ -22,3 +22,15 @@ home_section_even = "rgb(247, 247, 247)"
   link = "#CC3F0C"
   link_hover = "#DD614A"
 
+# Font style metadata
+name = "Palanquin"
+
+# Optional Google font URL
+google_fonts = "family=Palanquin:wght@100&display=swap"
+
+# Font families
+heading_font = "Palanquin"
+body_font = "Palanquin"
+nav_font = "Palanquin"
+mono_font = "Palanquin"
+
