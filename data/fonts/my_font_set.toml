@@ -2,12 +2,12 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "family=Palanquin:wght@100;500&display=swap"
+google_fonts = "ffamily=Source+Sans+Pro:ital,wght@0,200;1,400&display=swap"
 
 # Font families
-heading_font = "Palanquin"
-body_font = "Palanquin"
-nav_font = "Palanquin"
-mono_font = "Palanquin"
+heading_font = "Source Sans Pro"
+body_font = "Source Sans Pro"
+nav_font = "Source Sans Pro"
+mono_font = "Source Sans Pro"
 
 # font-family: 'Palanquin', sans-serif;
