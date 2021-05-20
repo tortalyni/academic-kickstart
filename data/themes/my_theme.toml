@@ -23,4 +23,4 @@ home_section_even = "rgb(247, 247, 247)"
   link_hover = "#DD614A"
  
 # Font
-google_fonts = family=Palanquin:wght@100&display=swap
+google_fonts = "family=Palanquin:wght@100&display=swap"
