@@ -5,9 +5,9 @@ name = "my_font_set"
 google_fonts = "family=Palanquin:wght@100;500"
 
 # Font families
-heading_font = "Palanquin sans"
-body_font = "Palanquin sans"
-nav_font = "Palanquin sans"
-mono_font = "Palanquin sans"
+heading_font = "Palanquin"
+body_font = "Palanquin"
+nav_font = "Palanquin"
+mono_font = "Palanquin"
 
 # font-family: 'Palanquin', sans-serif;
