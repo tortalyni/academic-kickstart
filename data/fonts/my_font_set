@@ -1,5 +1,5 @@
 # Font style metadata
-name = "Palanquin"
+name = "my_font_set"
 
 # Optional Google font URL
 google_fonts = "family=Palanquin:wght@100;500"
