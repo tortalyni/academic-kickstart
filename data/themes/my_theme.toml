@@ -22,3 +22,5 @@ home_section_even = "rgb(247, 247, 247)"
   link = "#CC3F0C"
   link_hover = "#DD614A"
  
+# Font
+google_fonts = family=Palanquin:wght@100&display=swap
