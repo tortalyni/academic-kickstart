@@ -14,12 +14,13 @@ organizations:
   url: "https://www.uvic.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include democratization of digital media and digital technologies, knowledge commons, internet decentralization, digital platform and AI capitalism, and techno-social relationships.
+bio: My research interests include digital knowledge commons, democratization of tech, AI and surveillance capitalism, and techno-social relationships.
 
 interests:
 - Science, Technology, and Society
 - Cultural, Social, and Political Thought
 - Sociology
+- Surveillance Studies
 - Open, Social Scholarship
 
 education:
@@ -27,7 +28,7 @@ education:
   - course: MA in Sociology with a concentration in Cultural Social and Political Thought
     institution: University of Victoria
     year: 2020 - present
-  - course: Honours BA in Sociology with a minot in Technology and Society
+  - course: Honours BA in Sociology with a minor in Technology and Society
     institution: University of Victoria
     year: 2020
   - course: Certificate in Business Administration
