@@ -9,9 +9,9 @@ superuser: true
 role: Writing | Research | Education | Project Management
 
 # Organizations/Affiliations
-organizations:
-- name: University of Victoria
-  url: "https://www.uvic.ca/"
+# organizations:
+# - name: University of Victoria
+#  url: "https://www.uvic.ca/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include digital knowledge commons, democratization of tech, AI and surveillance capitalism, and techno-social relationships.
