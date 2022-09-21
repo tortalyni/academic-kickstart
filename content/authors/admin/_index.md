@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Talya Jesperson
+title: Talya Jesperson (she/her)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Master's Student / Graduate Research Assistant
+role: Writing | Research | Education | Project Management
 
 # Organizations/Affiliations
 organizations:
@@ -22,6 +22,7 @@ interests:
 - Sociology
 - Surveillance Studies
 - Open, Social Scholarship
+- Teaching and Education
 
 education:
   courses:
@@ -71,4 +72,6 @@ highlight_name: false
 # - Visitors
 ---
 
-Talya is a research assistant at the Electronic Textual Cultures Lab located at the University of Victoria Library. She contributes to the lab’s communication activities across various online platforms and assists with collaborative research projects and planning conferences and events. Talya is an MA student in Sociology concentrating in Cultural, Social, and Political Thought (CSPT) at the University of Victoria. She holds a BA Honours in Sociology with a minor in Technology and Society from the University of Victoria. Her research interests are the democratization of digital media and digital technologies, knowledge commons, internet decentralization, digital platforms, surveillance capitalism, and techno-social relationships.
+I recently graduated with her MA in Sociology, concentrating in Cultural, Social, and Political Thought (CSPT) at the University of Victoria. During my program and through my work as both a teaching assistant and research assistant, I have had the opportunity to develop my skills as a researcher in both qualitative and quantitative research methods. I have experience managing large datasets, human research ethics, and working independently and as a team on research projects. Taking on a temporary role as an event coordinator at the ETCL, I have also learned how to manage large projects, including developing information management systems and conducting professional communications across institutions and to a global audience. 
+
+Outside of academia, I spent many years in digital marketing, working with programs including Hootsuite, WordPress, Trello, GSuite, Adobe Photoshop, Adobe Illustrator, and more. I am technologically proficient and am a quick learner of new programs. I have also worked as an English tutor, creating lesson plans and helping students K-12 with grammar, writing, and more. 
