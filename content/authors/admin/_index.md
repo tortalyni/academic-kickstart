@@ -28,7 +28,7 @@ education:
   courses:
   - course: MA in Sociology with a concentration in Cultural Social and Political Thought
     institution: University of Victoria
-    year: 2020 - present
+    year: 2022
   - course: Honours BA in Sociology with a minor in Technology and Society
     institution: University of Victoria
     year: 2020
@@ -55,12 +55,12 @@ social:
   # link: https://github.com/tortalyni/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "talya.jesperson@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
